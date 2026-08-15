@@ -56,3 +56,17 @@ The testbench `register_tb` instantiates the `register` module.
 ## Expected Result
 
 The `$monitor` output should show the register correctly capturing the input data on clock edges when enabled, and immediately clearing the output to `00` when `rst_` goes low.
+
+## Simulation Waveform
+
+![Output Waveform](Output%20waveform.png)
+
+## Schematics
+
+### Elaborated Schematic
+
+![Elaborated Schematic](Register%20elaborated%20schematic.png)
+
+### Synthesis Schematic
+
+![Synthesis Schematic](Register%20synthsis%20schematic.png)
