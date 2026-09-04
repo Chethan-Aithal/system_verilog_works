@@ -70,3 +70,13 @@ The `$monitor` output should show the register correctly capturing the input dat
 ### Synthesis Schematic
 
 ![Synthesis Schematic](Register%20synthsis%20schematic.png)
+
+---
+
+© 2026 Chethan Aithal. All rights reserved.
+
+---
+
+## Author
+
+**Chethan Aithal**

@@ -1,6 +1,16 @@
-# 8-Bit ALU with Opcode-Driven Datapath
+# ALU
 
 An 8-bit Arithmetic Logic Unit (ALU) implemented in SystemVerilog, featuring eight parameterized opcodes covering arithmetic, bitwise, data movement, and flow-control operations. The design uses a clocked datapath triggered on the negative clock edge and a purely combinational zero-flag generator.
+
+## File Header
+
+```text
+// File name   : ALU.sv
+// Title       : ALU
+// Project     : SystemVerilog Works
+// Created     : 2026-09-03
+// Description : An 8-bit Arithmetic Logic Unit (ALU) with eight parameterized opcodes, negedge-clocked datapath, and combinational zero flag.
+```
 
 ---
 
@@ -190,6 +200,10 @@ Improvements welcome — particularly around:
 
 ---
 
-## License
+© 2026 Chethan Aithal. All rights reserved.
 
-License information has not yet been specified.
+---
+
+## Author
+
+**Chethan Aithal**

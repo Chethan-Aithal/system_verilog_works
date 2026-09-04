@@ -1,6 +1,16 @@
-# Parameterized 2-to-1 Multiplexer (MUX)
+# MUX
 
 A configurable, purely combinational 2-to-1 multiplexer implemented in SystemVerilog. This design routes one of two $N$-bit input data buses to a single output bus based on a 1-bit select signal, utilizing synthesis-friendly SystemVerilog constructs.
+
+## File Header
+
+```text
+// File name   : mux.sv
+// Title       : MUX
+// Project     : SystemVerilog Works
+// Created     : 2026-08-17
+// Description : A parameterized 2-to-1 multiplexer.
+```
 
 ---
 
@@ -170,6 +180,10 @@ Contributions to improve the design or verification environment are welcome.
 
 ---
 
-## License
+© 2026 Chethan Aithal. All rights reserved.
 
-License information has not yet been specified.
+---
+
+## Author
+
+**Chethan Aithal**

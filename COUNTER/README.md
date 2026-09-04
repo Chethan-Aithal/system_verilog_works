@@ -1,6 +1,16 @@
-# 5-Bit Synchronous Counter with Parallel Load
+# COUNTER
 
 A synchronous 5-bit up-counter with asynchronous active-low reset, synchronous parallel load, and an active-high count enable signal, written in SystemVerilog.
+
+## File Header
+
+```text
+// File name   : counter.sv
+// Title       : COUNTER
+// Project     : SystemVerilog Works
+// Created     : 2026-08-18
+// Description : A synchronous 5-bit up-counter with asynchronous active-low reset, synchronous parallel load, and active-high count enable.
+```
 
 ---
 
@@ -141,6 +151,10 @@ Contributions are welcome for adding new functionality like parameterization, co
 
 ---
 
-## License
+© 2026 Chethan Aithal. All rights reserved.
 
-License information has not yet been specified.
+---
+
+## Author
+
+**Chethan Aithal**
