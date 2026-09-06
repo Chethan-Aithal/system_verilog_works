@@ -11,6 +11,7 @@ A repository of SystemVerilog, RTL design, and verification projects maintained 
 | [COUNTER](COUNTER/) | 5-bit synchronous up-counter with parallel load and asynchronous active-low reset | [`counter.sv`](COUNTER/counter.sv) | [`counter_tb.sv`](COUNTER/counter_tb.sv) |
 | [ALU](ALU/) | 8-bit Arithmetic Logic Unit with 8 parameterized opcodes and zero flag | [`ALU.sv`](ALU/ALU.sv) | [`alu_tb.sv`](ALU/alu_tb.sv) |
 | [Controller](Controller/) | Multi-cycle CPU 8-state controller FSM with golden vector-driven testbench | [`controller.sv`](Controller/controller.sv) | [`controller_tb.sv`](Controller/controller_tb.sv) |
+| [Memory](Memory/) | Synchronous 32x8-bit RAM module with modular top harness and automated verification | [`mem.sv`](Memory/mem.sv), [`mem_top.sv`](Memory/mem_top.sv) | [`mem_tb.sv`](Memory/mem_tb.sv) |
 
 ---
 
